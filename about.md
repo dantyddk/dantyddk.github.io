@@ -31,9 +31,9 @@ title: About
 - Proficiency in Excel, SQL
 - Strong mathematical skill
 - Knowledge of programming languages (SQL, Python)
-- Knowledge of data visualization (Power BI, Looker Studio)
-- Knowledge of BigData, statistical models, predictive model
+- Knowledge of data visualization (Power BI, Looker Studio, Tableau)
+- Knowledge of BigData, statistical models, and predictive model 
 - Logical thinking
 - Organization
-- Problem Solving
+- Problem-Solving
 - Adaptability
