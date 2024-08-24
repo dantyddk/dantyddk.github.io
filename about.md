@@ -2,6 +2,7 @@
 layout: about
 title: About
 ---
+# About
 
 ## Education
 **UNIVERSITY OF ESSEX (_Jan. 2024 - Jan. 2026_)**
@@ -13,8 +14,8 @@ title: About
 
 ## Certification
 **COURSEA | DATA ENGINEER (_Sep. 2023 - Nov. 2023_)**
-- [Data Engineering Foundation]([Coursera](https://coursera.org/verify/specialization/644CVRMTF3KD))
-- [IBM - Data Engineering]([Coursera](https://coursera.org/verify/professional-cert/DEN88WMC4K4F))
+- [Data Engineering Foundation]([url](https://coursera.org/verify/specialization/644CVRMTF3KD))
+- [IBM - Data Engineering]([url](https://coursera.org/verify/professional-cert/DEN88WMC4K4F))
 
 **IELTS** 
 - Reading & Speaking: 7.0
