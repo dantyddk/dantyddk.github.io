@@ -3,8 +3,6 @@ layout: about
 title: About
 ---
 
-# ABOUT
-
 ## Education
 **UNIVERSITY OF ESSEX (_Jan. 2024 - Jan. 2026_)**
 - M.S., Data Science
@@ -27,7 +25,7 @@ title: About
 
 **PYTHON**
 
-## Skills
+## Skill
 - Proficiency in Excel, SQL
 - Strong mathematical skill
 - Knowledge of programming languages (SQL, Python)
