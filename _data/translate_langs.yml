@@ -1,6 +1,10 @@
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
 
+- lang: vi
+  img: https://www.countryflags.com/wp-content/uploads/vietnam-flag-png-large.png
+  text: Vietnamese
+  
 - lang: en
   img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
   text: English
