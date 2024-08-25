@@ -37,3 +37,9 @@ title: About
 - Organization
 - Problem-Solving
 - Adaptability
+
+## Contact for work
+- Email: dinhkhoi.dang.work@gmail.com
+- Phone Number: (+84)786.686867
+- Via Zalo, Telegram, Line, Whatsapp 
+- Follow me on [Linkedin](https://www.linkedin.com/in/dinh-khoi-dang/)
