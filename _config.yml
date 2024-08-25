@@ -26,7 +26,7 @@
 
 title: Dinh Khoi Dang E-Portfolio
 email: dinhkhoi.dang.work@gmail.com
-author: Danty
+author: Dinh Khoi Dang
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -40,7 +40,7 @@ author: Danty
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Unpublished Work (cleft) 2020-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Passionate about utilizing data to enhance business efficiency through analyzing figures for optimal business operations. Through this, aiming to become an expert in analysis
