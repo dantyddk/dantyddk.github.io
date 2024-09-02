@@ -23,12 +23,12 @@ In conclusion, the convergence of data science, AI, and cybersecurity is a trans
 
 ### References
 
-- Hero, A., Kar, S., Moura, J., Neil, J., Poor, H. V., Turcotte, M. & Xi, B. (2023) Statistics and Data Science for Cybersecurity. Harvard Data Science Review, 5(1).
-- Tebout, B. (2021) The challenges of the convergence of Data, AI, Cloud, Blockchain, IoT and Cybersecurity. European Scientist.
-- Dhar, V. (2013). Data science and prediction. Communications of the ACM, 56(12), 64-73.
-- Russell, S., & Norvig, P. (2018). Artificial intelligence: A modern approach. Pearson UK.
-- Mittelstadt, B. D., Allo, P., Taddeo, M., Wachter, S., & Floridi, L. (2016). The ethics of algorithms: Mapping the debate. Big Data & Society, 3(2), 2053951716679679.
-- Floridi, L., Cowls, J., Beltrametti, M., Chatila, R., Chazerand, P., Dignum, V., ... & Schneider, F. (2018). AI4People—An ethical framework for a good AI society: Opportunities, risks, principles, and recommendations. Minds and Machines, 28(4), 689-707.
+- Hero, A., Kar, S., Moura, J., Neil, J., Poor, H. V., Turcotte, M. & Xi, B. (2023) <em>Statistics and Data Science for Cybersecurity</em>. Harvard Data Science Review, 5(1).
+- Tebout, B. (2021) <em>The challenges of the convergence of Data, AI, Cloud, Blockchain, IoT and Cybersecurity</em>. European Scientist.
+- Dhar, V. (2013). <em>Data science and prediction</em>. Communications of the ACM, 56(12), 64-73.
+- Russell, S., & Norvig, P. (2018). <em>Artificial intelligence: A modern approach</em>. Pearson UK.
+- Mittelstadt, B. D., Allo, P., Taddeo, M., Wachter, S., & Floridi, L. (2016). <em>The ethics of algorithms: Mapping the debate</em>. Big Data & Society, 3(2), 2053951716679679.
+- Floridi, L., Cowls, J., Beltrametti, M., Chatila, R., Chazerand, P., Dignum, V., ... & Schneider, F. (2018). <em>AI4People—An ethical framework for a good AI society: Opportunities, risks, principles, and recommendations</em>. Minds and Machines, 28(4), 689-707.
 
 ---
 ## Final Post
