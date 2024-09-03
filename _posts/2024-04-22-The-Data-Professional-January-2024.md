@@ -31,9 +31,9 @@ A systematic examination of all 42 tables derived from the National Survey for W
 
 -	Consequently, the task at hand necessitates the crafting of bespoke scripts tailored to the idiosyncrasies of the provided report-style data, ensuring its accessibility and usability for our analytical endeavor.
 
-![image](assets/images/banners/Picture4.jpg)
+![image](/assets/images/banners/Picture4.jpg)
 
-![image](assets/images/banners/Picture5.jpg)
+![image](/assets/images/banners/Picture5.jpg)
 
 #### 2.	Data Processing:
 
@@ -41,7 +41,7 @@ A systematic examination of all 42 tables derived from the National Survey for W
 
 -	Understanding each dataset's structure and content informs the strategic approach to data exploration and analysis. Leveraging metadata enables informed decisions about which tables to explore analytically.
 
-![image](assets/images/banners/Picture6.jpg)
+![image](/assets/images/banners/Picture6.jpg)
 
 #### 3.	Quantitative and Qualitative Analysis:
 
@@ -51,11 +51,11 @@ A systematic examination of all 42 tables derived from the National Survey for W
 
 -	Qualitative analysis involved coding and thematic analysis to uncover underlying factors influencing satisfaction scores, providing a nuanced understanding of the dataset.
 
-![image](assets/images/banners/Picture7.jpg)
+![image](/assets/images/banners/Picture7.jpg)
 
-![image](assets/images/banners/Picture8.jpg)
+![image](/assets/images/banners/Picture8.jpg)
 
-![image](assets/images/banners/Picture9.jpg)
+![image](/assets/images/banners/Picture9.jpg)
 
 #### 4.	Data Management with MDM Model:
 
@@ -69,7 +69,7 @@ A systematic examination of all 42 tables derived from the National Survey for W
 
 -	UML activity diagrams for process flow visualization were developed to depict the analytical workflow and ensure coherence and clarity in the analysis process.
 
-![image](assets/images/banners/Picture10.jpg)
+![image](/assets/images/banners/Picture10.jpg)
 
 #### 6.	Table Selection Criteria:
 
@@ -109,19 +109,19 @@ To visualize trends in satisfaction over time, line graphs were selected. This a
 
 #### 1.	Bar Chart: Satisfaction Across Household Categories
 
-![image](assets/images/banners/Picture11.jpg)
+![image](/assets/images/banners/Picture11.jpg)
 
 This chart aims to portray satisfaction levels across diverse household types, including single Single, Couple, Family, and Pensioner. The varying heights of the bars will offer a lucid visual depiction of the differences in satisfaction among these groups. This visualization plays a pivotal role in discerning the demographic segments that exhibit the highest and lowest levels of satisfaction with the transportation system. Such insights are instrumental in guiding the formulation of targeted policy interventions aimed at addressing specific demographic needs and enhancing overall satisfaction.
 
 #### 2.	Pie Chart: Transportation Utilization Trends
 
-![image](assets/images/banners/Picture12.jpg)
+![image](/assets/images/banners/Picture12.jpg)
 
 The pie chart provides an insightful breakdown of transportation modes utilized by respondents, including Public Transport, Private Vehicles, Walking, and Cycling. Each segment's size represents the proportion of respondents opting for each mode. This visualization offers valuable insights into the transportation preferences prevalent among the Welsh population. It identifies areas where improvements in public transport can enhance accessibility and appeal to a wider audience
 
 #### 3.	Line Graph: Evolution of Satisfaction Levels Over Time
 
-![image](assets/images/banners/Picture13.jpg)
+![image](/assets/images/banners/Picture13.jpg)
 
 This graphical depiction illustrates the trajectory of transportation satisfaction throughout the survey period. By linking data points across each year, it provides a visual storyline of the fluctuations in public sentiment, offering insights into how factors such as policy adjustments, economic fluctuations, or infrastructure developments have influenced public perception over time.
 
