@@ -57,19 +57,19 @@ To visualize trends in satisfaction over time, line graphs were selected. This a
 
 #### 1.	Bar Chart: Satisfaction Across Household Categories
 
-![Satisfaction Across Household Categories](assets/images/banners/Picture1.png)
+![Satisfaction Across Household Categories](/assets/images/banners/Picture1.png)
 
 This chart aims to portray satisfaction levels across diverse household types, including single Single, Couple, Family, and Pensioner. The varying heights of the bars will offer a lucid visual depiction of the differences in satisfaction among these groups. This visualization plays a pivotal role in discerning the demographic segments that exhibit the highest and lowest levels of satisfaction with the transportation system. Such insights are instrumental in guiding the formulation of targeted policy interventions aimed at addressing specific demographic needs and enhancing overall satisfaction.
 
 #### 2.	Pie Chart: Transportation Utilization Trends
 
-![Transportation Utilization Trends](assets/images/banners/Picture2.png)
+![Transportation Utilization Trends](/assets/images/banners/Picture2.png)
 
 The pie chart provides an insightful breakdown of transportation modes utilized by respondents, including Public Transport, Private Vehicles, Walking, and Cycling. Each segment's size represents the proportion of respondents opting for each mode. This visualization offers valuable insights into the transportation preferences prevalent among the Welsh population. It identifies areas where improvements in public transport can enhance accessibility and appeal to a wider audience.
 
 #### 3.	Line Graph: Evolution of Satisfaction Levels Over Time
 
-![Evolution of Satisfaction Levels Over Time](assets/images/banners/Picture3.png)
+![Evolution of Satisfaction Levels Over Time](/assets/images/banners/Picture3.png)
 
 This graphical depiction illustrates the trajectory of transportation satisfaction throughout the survey period. By linking data points across each year, it provides a visual storyline of the fluctuations in public sentiment, offering insights into how factors such as policy adjustments, economic fluctuations, or infrastructure developments have influenced public perception over time.
 
