@@ -2,7 +2,7 @@
 layout: post
 title: UoE - Deciphering Big Data July 2024 - Collaborative Discussion 1 - The Data Collection Process
 subtitle: Identify and manage challenges, security issues and risks, limitations, and opportunities in data wrangling. Critically analyse data wrangling problems and determine appropriate methodologies, tools, and techniques (involving preparing, cleaning, exploring, creating, optimising and evaluating big data) to solve them.
-categories: Module E-Portfolio Learning Activities
+categories: Module E-Portfolio Learning Activities, Discussion
 tags: [UoE, assignment, essay, Module E-Portfolio Learning Activities]
 ---
 ---
