@@ -3,7 +3,7 @@ layout: post
 title: UoE - Deciphering Big Data July 2024 - Normalisation Task
 subtitle: Critically analyse data wrangling problems and determine appropriate methodologies, tools, and techniques (involving preparing, cleaning, exploring, creating, optimising and evaluating big data) to solve them. Design, develop and evaluate solutions for processing datasets and solving complex problems in various environments using relevant programming paradigms. Systematically develop and implement the skills required to be effective member of a development team in a virtual professional environment, adopting real life perspectives on team roles and organisation.
 categories: EL-Activities
-tags: [UoE, task, Module E-Portfolio Learning Activities]
+tags: [UoE, coding, Module E-Portfolio Learning Activities]
 ---
 ---
 ## Normalisation Task
