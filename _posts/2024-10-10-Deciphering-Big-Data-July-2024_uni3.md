@@ -10,37 +10,28 @@ tags: [UoE, coding, Module E-Portfolio Learning Activities]
 ---
 ### Coding Part
 
-import requests
+    import requests
+    from bs4 import BeautifulSoup
+    import re
+    import json
 
-from bs4 import BeautifulSoup
+    url = 'https://www.discoverdatascience.org/ai-and-data-science/'
 
-import re
+    response = requests.get(url)
+    soup = BeautifulSoup(response.content, 'html.parser')
 
-import json
+    data_science_info = []
+    for tag in soup.find_all(text=True):
+    if re.search(r'data science', tag, re.IGNORECASE):
+    data_science_info.append(tag.strip())
 
-url = 'https://www.discoverdatascience.org/ai-and-data-science/'
+    for info in data_science_info:
+    print(info)
 
-response = requests.get(url)
+    with open('data_science_info.json', 'w', encoding='utf-8') as json_file:
+    json.dump(data_science_info, json_file, ensure_ascii=False, indent=4)
 
-soup = BeautifulSoup(response.content, 'html.parser')
-
-data_science_info = []
-
-for tag in soup.find_all(text=True):
-
-if re.search(r'data science', tag, re.IGNORECASE):
-
-data_science_info.append(tag.strip())
-
-for info in data_science_info:
-
-print(info)
-
-with open('data_science_info.json', 'w', encoding='utf-8') as json_file:
-
-json.dump(data_science_info, json_file, ensure_ascii=False, indent=4)
-
-save_to_json(data_science_info)
+    save_to_json(data_science_info)
 
 ### Result
 
