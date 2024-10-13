@@ -65,7 +65,7 @@ In conclusion, while the Internet of Things offers transformative benefits and o
 ## Indidual Reflection
 ---
 
-### Reflection:
+### Reflection
 
 The discussion on the Critical Evaluation of the Internet of Things (IoT) provided an opportunity to engage with the complexities of IoT technology, evaluating both its immense potential and the challenges it presents. The process of researching and writing my initial post helped me critically examine how IoT is revolutionizing industries like healthcare and smart cities through real-time data collection and improved operational efficiency.
 
