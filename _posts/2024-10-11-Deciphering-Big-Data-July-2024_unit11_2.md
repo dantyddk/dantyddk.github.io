@@ -11,19 +11,19 @@ tags: [UoE, assignment, essay, Module E-Portfolio Learning Activities]
 
 ### Module E-Portfolio Learning Activities
 
-<a href="https://dantyddk.github.io/el-activities/assignment/2024/10/11/Deciphering-Big-Data-July-2024_unit11_2.html" target="_blank">UoE - Deciphering Big Data July 2024 - Individual Reflection & E-Portfolio</a><br>
-<a href="https://dantyddk.github.io/el-activities/assignment/2024/10/11/Deciphering-Big-Data-July-2024_unit11_1.html" target="_blank">UoE - Deciphering Big Data July 2024 - Individual Project Executive Summary</a><br>
-<a href="https://dantyddk.github.io/el-activities/wiki/2024/10/11/Deciphering-Big-Data-July-2024_unit11.html" target="_blank">UoE - Deciphering Big Data July 2024 - Backup Procedure</a><br>
-<a href="https://dantyddk.github.io/el-activities/2024/10/11/Deciphering-Big-Data-July-2024-unit10_1.html" target="_blank">UoE - Deciphering Big Data July 2024 - IBM-QRADAR-Intellas-KAIF Integration</a><br>
-<a href="https://dantyddk.github.io/el-activities/2024/10/11/Deciphering-Big-Data-July-2024-unit10.html" target="_blank">UoE - Deciphering Big Data July 2024 - API Security Requirements</a><br>
-<a href="https://dantyddk.github.io/el-activities/discussion/2024/10/10/Deciphering-Big-Data-July-2024_unit8.html" target="_blank">UoE - Deciphering Big Data July 2024 - Collaborative Discussion 2 - Comparing Compliance Laws</a><br>
-<a href="https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit7_2.html" target="_blank">UoE - Deciphering Big Data July 2024 - Data Build Task</a><br>
-<a href="https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit7.html" target="_blank">UoE - Deciphering Big Data July 2024 - Normalisation Task</a><br>
-<a href="https://dantyddk.github.io/el-activities/assignment/2024/10/10/Deciphering-Big-Data-July-2024_unit6.html" target="_blank">UoE - Deciphering Big Data July 2024 - Development Team Project Report</a><br>
-<a href="https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit4_1.html" target="_blank">UoE - Deciphering Big Data July 2024 - Data Management Pipeline Test</a><br>
-<a href="https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit4.html" target="_blank">UoE - Deciphering Big Data July 2024 - Data Cleaning</a><br>
-<a href="https://dantyddk.github.io/el-activities/wiki/2024/10/10/Deciphering-Big-Data-July-2024_uni3.html" target="_blank">UoE - Deciphering Big Data July 2024 - Web Scraping</a><br>
-<a href="https://dantyddk.github.io/el-activities/discussion/2024/10/10/Deciphering-Big-Data-July-2024.html" target="_blank">UoE - Deciphering Big Data July 2024 - Collaborative Discussion 1 - The Data Collection Process</a>
+- <a href="https://dantyddk.github.io/el-activities/assignment/2024/10/11/Deciphering-Big-Data-July-2024_unit11_2.html" target="_blank">UoE - Deciphering Big Data July 2024 - Individual Reflection & E-Portfolio</a><br>
+- <a href="https://dantyddk.github.io/el-activities/assignment/2024/10/11/Deciphering-Big-Data-July-2024_unit11_1.html" target="_blank">UoE - Deciphering Big Data July 2024 - Individual Project Executive Summary</a><br>
+- <a href="https://dantyddk.github.io/el-activities/wiki/2024/10/11/Deciphering-Big-Data-July-2024_unit11.html" target="_blank">UoE - Deciphering Big Data July 2024 - Backup Procedure</a><br>
+- <a href="https://dantyddk.github.io/el-activities/2024/10/11/Deciphering-Big-Data-July-2024-unit10_1.html" target="_blank">UoE - Deciphering Big Data July 2024 - IBM-QRADAR-Intellas-KAIF Integration</a><br>
+- <a href="https://dantyddk.github.io/el-activities/2024/10/11/Deciphering-Big-Data-July-2024-unit10.html" target="_blank">UoE - Deciphering Big Data July 2024 - API Security Requirements</a><br>
+- <a href="https://dantyddk.github.io/el-activities/discussion/2024/10/10/Deciphering-Big-Data-July-2024_unit8.html" target="_blank">UoE - Deciphering Big Data July 2024 - Collaborative Discussion 2 - Comparing Compliance Laws</a><br>
+- <a href="https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit7_2.html" target="_blank">UoE - Deciphering Big Data July 2024 - Data Build Task</a><br>
+- <a href="https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit7.html" target="_blank">UoE - Deciphering Big Data July 2024 - Normalisation Task</a><br>
+- <a href="https://dantyddk.github.io/el-activities/assignment/2024/10/10/Deciphering-Big-Data-July-2024_unit6.html" target="_blank">UoE - Deciphering Big Data July 2024 - Development Team Project Report</a><br>
+- <a href="https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit4_1.html" target="_blank">UoE - Deciphering Big Data July 2024 - Data Management Pipeline Test</a><br>
+- <a href="https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit4.html" target="_blank">UoE - Deciphering Big Data July 2024 - Data Cleaning</a><br>
+- <a href="https://dantyddk.github.io/el-activities/wiki/2024/10/10/Deciphering-Big-Data-July-2024_uni3.html" target="_blank">UoE - Deciphering Big Data July 2024 - Web Scraping</a><br>
+- <a href="https://dantyddk.github.io/el-activities/discussion/2024/10/10/Deciphering-Big-Data-July-2024.html" target="_blank">UoE - Deciphering Big Data July 2024 - Collaborative Discussion 1 - The Data Collection Process</a>
 
 
 ### Reflection On Each Activites
