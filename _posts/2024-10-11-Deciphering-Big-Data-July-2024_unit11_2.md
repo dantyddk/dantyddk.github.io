@@ -68,7 +68,7 @@ Normalizing the database structure helped me realize how crucial it is to elimin
 
 #### Data Management Pipeline Test
 
-The [Data Management Pipeline Test](https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit4_1.html) was particularly enlightening, as it reinforced best practices in Python programming and introduced me to essential concepts in building efficient data management pipelines. I learned how to structure a data management pipeline that encompasses data extraction, transformation, and loading (ETL).
+The <a href="https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit4_1.html" target="_blank">Data Management Pipeline Test</a> was particularly enlightening, as it reinforced best practices in Python programming and introduced me to essential concepts in building efficient data management pipelines. I learned how to structure a data management pipeline that encompasses data extraction, transformation, and loading (ETL).
 
 This task taught me the importance of automating data processes to ensure efficiency and accuracy. I gained hands-on experience with techniques for error handling, data validation, and logging, which are critical for maintaining data quality in real-time applications. The skills acquired during this project have enhanced my capability to design robust data pipelines that streamline workflows and improve the overall efficiency of data handling within organizations.
 
