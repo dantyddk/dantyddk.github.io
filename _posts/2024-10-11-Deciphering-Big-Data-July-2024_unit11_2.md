@@ -11,19 +11,20 @@ tags: [UoE, assignment, essay, Module E-Portfolio Learning Activities]
 
 ### Module E-Portfolio Learning Activities
 
-- [UoE - Deciphering Big Data July 2024 - Individual Reflection & E-Portfolio](https://dantyddk.github.io/el-activities/assignment/2024/10/11/Deciphering-Big-Data-July-2024_unit11_2.html)
-- [UoE - Deciphering Big Data July 2024 - Individual Project Executive Summary](https://dantyddk.github.io/el-activities/assignment/2024/10/11/Deciphering-Big-Data-July-2024_unit11_1.html)
-- [UoE - Deciphering Big Data July 2024 - Backup Procedure](https://dantyddk.github.io/el-activities/wiki/2024/10/11/Deciphering-Big-Data-July-2024_unit11.html)
-- [UoE - Deciphering Big Data July 2024 - IBM-QRADAR-Intellas-KAIF Integration](https://dantyddk.github.io/el-activities/2024/10/11/Deciphering-Big-Data-July-2024-unit10_1.html)
-- [UoE - Deciphering Big Data July 2024 - API Security Requirements](https://dantyddk.github.io/el-activities/2024/10/11/Deciphering-Big-Data-July-2024-unit10.html)
-- [UoE - Deciphering Big Data July 2024 - Collaborative Discussion 2 - Comparing Compliance Laws](https://dantyddk.github.io/el-activities/discussion/2024/10/10/Deciphering-Big-Data-July-2024_unit8.html)
-- [UoE - Deciphering Big Data July 2024 - Data Build Task](https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit7_2.html)
-- [UoE - Deciphering Big Data July 2024 - Normalisation Task](https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit7.html)
-- [UoE - Deciphering Big Data July 2024 - Development Team Project Report](https://dantyddk.github.io/el-activities/assignment/2024/10/10/Deciphering-Big-Data-July-2024_unit6.html)
-- [UoE - Deciphering Big Data July 2024 - Data Management Pipeline Test](https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit4_1.html)
-- [UoE - Deciphering Big Data July 2024 - Data Cleaning](https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit4.html)
-- [UoE - Deciphering Big Data July 2024 - Web Scraping](https://dantyddk.github.io/el-activities/wiki/2024/10/10/Deciphering-Big-Data-July-2024_uni3.html)
-- [UoE - Deciphering Big Data July 2024 - Collaborative Discussion 1 - The Data Collection Process](https://dantyddk.github.io/el-activities/discussion/2024/10/10/Deciphering-Big-Data-July-2024.html)
+<a href="https://dantyddk.github.io/el-activities/assignment/2024/10/11/Deciphering-Big-Data-July-2024_unit11_2.html" target="_blank">UoE - Deciphering Big Data July 2024 - Individual Reflection & E-Portfolio</a><br>
+<a href="https://dantyddk.github.io/el-activities/assignment/2024/10/11/Deciphering-Big-Data-July-2024_unit11_1.html" target="_blank">UoE - Deciphering Big Data July 2024 - Individual Project Executive Summary</a><br>
+<a href="https://dantyddk.github.io/el-activities/wiki/2024/10/11/Deciphering-Big-Data-July-2024_unit11.html" target="_blank">UoE - Deciphering Big Data July 2024 - Backup Procedure</a><br>
+<a href="https://dantyddk.github.io/el-activities/2024/10/11/Deciphering-Big-Data-July-2024-unit10_1.html" target="_blank">UoE - Deciphering Big Data July 2024 - IBM-QRADAR-Intellas-KAIF Integration</a><br>
+<a href="https://dantyddk.github.io/el-activities/2024/10/11/Deciphering-Big-Data-July-2024-unit10.html" target="_blank">UoE - Deciphering Big Data July 2024 - API Security Requirements</a><br>
+<a href="https://dantyddk.github.io/el-activities/discussion/2024/10/10/Deciphering-Big-Data-July-2024_unit8.html" target="_blank">UoE - Deciphering Big Data July 2024 - Collaborative Discussion 2 - Comparing Compliance Laws</a><br>
+<a href="https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit7_2.html" target="_blank">UoE - Deciphering Big Data July 2024 - Data Build Task</a><br>
+<a href="https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit7.html" target="_blank">UoE - Deciphering Big Data July 2024 - Normalisation Task</a><br>
+<a href="https://dantyddk.github.io/el-activities/assignment/2024/10/10/Deciphering-Big-Data-July-2024_unit6.html" target="_blank">UoE - Deciphering Big Data July 2024 - Development Team Project Report</a><br>
+<a href="https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit4_1.html" target="_blank">UoE - Deciphering Big Data July 2024 - Data Management Pipeline Test</a><br>
+<a href="https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit4.html" target="_blank">UoE - Deciphering Big Data July 2024 - Data Cleaning</a><br>
+<a href="https://dantyddk.github.io/el-activities/wiki/2024/10/10/Deciphering-Big-Data-July-2024_uni3.html" target="_blank">UoE - Deciphering Big Data July 2024 - Web Scraping</a><br>
+<a href="https://dantyddk.github.io/el-activities/discussion/2024/10/10/Deciphering-Big-Data-July-2024.html" target="_blank">UoE - Deciphering Big Data July 2024 - Collaborative Discussion 1 - The Data Collection Process</a>
+
 
 ### Reflection On Each Activites
 
@@ -31,37 +32,37 @@ tags: [UoE, assignment, essay, Module E-Portfolio Learning Activities]
 
 #### Individual Project Executive Summary and Development Team Project Report
 
-Through the [Individual Project Executive Summary](https://dantyddk.github.io/el-activities/assignment/2024/10/11/Deciphering-Big-Data-July-2024_unit11_1.html) and [Development Team Project Report](https://dantyddk.github.io/el-activities/assignment/2024/10/10/Deciphering-Big-Data-July-2024_unit6.html), I gained a comprehensive understanding of how to design and implement a relational database for a ride-hailing company. I learned about the critical roles of primary and foreign keys in linking tables to maintain referential integrity, which is essential for managing large datasets with intricate relationships.
+Through the <a href="https://dantyddk.github.io/el-activities/assignment/2024/10/11/Deciphering-Big-Data-July-2024_unit11_1.html" target="_blank">Individual Project Executive Summary</a> and <a href="https://dantyddk.github.io/el-activities/assignment/2024/10/10/Deciphering-Big-Data-July-2024_unit6.html" target="_blank">Development Team Project Report</a>, I gained a comprehensive understanding of how to design and implement a relational database for a ride-hailing company. I learned about the critical roles of primary and foreign keys in linking tables to maintain referential integrity, which is essential for managing large datasets with intricate relationships.
 
 For example, understanding how users, ride requests, and dispatches are interconnected allowed me to build a database structure that facilitates efficient querying and data retrieval. This foundational knowledge of relational databases provided me with insights into how to model real-world systems effectively, ensuring data consistency and accuracy across multiple tables.
 
 #### Backup Procedure Project
 
-The [Backup Procedure](https://dantyddk.github.io/el-activities/wiki/2024/10/11/Deciphering-Big-Data-July-2024_unit11.html) project on the Grandfather-Father-Son (GFS) backup system introduced me to the importance of resource-efficient backup strategies in environments handling large volumes of data. I learned that GFS operates on a rotational basis, where daily, weekly, and monthly backups are performed. This hierarchical backup method not only reduces resource intensity but also ensures reliable data recovery.
+The <a href="https://dantyddk.github.io/el-activities/wiki/2024/10/11/Deciphering-Big-Data-July-2024_unit11.html" target="_blank">Backup Procedure</a> project on the Grandfather-Father-Son (GFS) backup system introduced me to the importance of resource-efficient backup strategies in environments handling large volumes of data. I learned that GFS operates on a rotational basis, where daily, weekly, and monthly backups are performed. This hierarchical backup method not only reduces resource intensity but also ensures reliable data recovery.
 
 In comparing GFS to modern alternatives like incremental backups, I gained insights into selecting the right backup strategy based on organizational needs. For instance, I discovered that while GFS is robust for general use, incremental backups can be more efficient in environments that require rapid recovery times and less frequent full backups. This knowledge will be invaluable when evaluating backup solutions for different projects in my professional role.
 
 #### IBM-QRADAR-Intellas-KAIF Integration Case Study
 
-Working on the [IBM-QRADAR-Intellas-KAIF Integration Case Study](https://dantyddk.github.io/el-activities/2024/10/11/Deciphering-Big-Data-July-2024-unit10_1.html) deepened my understanding of cybersecurity systems. I explored how QRadar, as a Security Information and Event Management (SIEM) solution, collects and processes security data, while KAIF enhances threat detection through machine learning techniques.
+Working on the <a href="https://dantyddk.github.io/el-activities/2024/10/11/Deciphering-Big-Data-July-2024-unit10_1.html" target="_blank">IBM-QRADAR-Intellas-KAIF Integration Case Study</a> deepened my understanding of cybersecurity systems. I explored how QRadar, as a Security Information and Event Management (SIEM) solution, collects and processes security data, while KAIF enhances threat detection through machine learning techniques.
 
 This project highlighted the significance of inter-process communication (IPC) and the need for seamless data flow between systems to maintain security integrity. For example, understanding how QRadar can integrate data processed by KAIF for real-time threat analysis reinforced the importance of having robust data-sharing mechanisms in cybersecurity frameworks. This experience emphasized the need for proactive security measures in today's interconnected digital landscape.
 
 #### API Security Requirements Project
 
-The [API Security Requirements](https://dantyddk.github.io/el-activities/2024/10/11/Deciphering-Big-Data-July-2024-unit10.html) project, developed in collaboration with Matthew Bowyer, focused on securing the integration of the Twitter API using OAuth 2.0, encryption, and rate-limiting mechanisms. Through this project, I enhanced my knowledge of authentication protocols and API key management, gaining a deeper appreciation for the complexity of API-driven systems.
+The <a href="https://dantyddk.github.io/el-activities/2024/10/11/Deciphering-Big-Data-July-2024-unit10.html" target="_blank">API Security Requirements</a> project, developed in collaboration with Matthew Bowyer, focused on securing the integration of the Twitter API using OAuth 2.0, encryption, and rate-limiting mechanisms. Through this project, I enhanced my knowledge of authentication protocols and API key management, gaining a deeper appreciation for the complexity of API-driven systems.
 
 I learned that the proper implementation of security measures, such as OAuth 2.0, is crucial in preventing unauthorized access and safeguarding sensitive data. This project also underscored the importance of designing APIs with security in mind from the outset, ensuring that data integrity and privacy are prioritized throughout the API's lifecycle.
 
 #### Collaborative Discussions
 
-Participating in [Collaborative Discussion 1](https://dantyddk.github.io/el-activities/discussion/2024/10/10/Deciphering-Big-Data-July-2024.html) and [Collaborative Discussion 2](https://dantyddk.github.io/el-activities/discussion/2024/10/10/Deciphering-Big-Data-July-2024_unit8.html) allowed me to reflect on the importance of data collection processes and compliance laws. The first discussion emphasized the challenges of collecting large datasets and ensuring data quality during the process. I learned about the various methods to ensure accurate and reliable data collection, which is essential for any data-driven project.
+Participating in <a href="https://dantyddk.github.io/el-activities/discussion/2024/10/10/Deciphering-Big-Data-July-2024.html" target="_blank">Collaborative Discussion 1</a> and <a href="https://dantyddk.github.io/el-activities/discussion/2024/10/10/Deciphering-Big-Data-July-2024_unit8.html" target="_blank">Collaborative Discussion 2</a> allowed me to reflect on the importance of data collection processes and compliance laws. The first discussion emphasized the challenges of collecting large datasets and ensuring data quality during the process. I learned about the various methods to ensure accurate and reliable data collection, which is essential for any data-driven project.
 
 In the second discussion, I expanded my understanding of GDPR and ICO regulations, particularly how they enforce risk-based security measures. This knowledge has heightened my awareness of the legal landscape surrounding data privacy and the responsibilities that organizations have in protecting user data. Understanding compliance requirements is critical for designing systems that meet regulatory standards and foster trust among users.
 
 #### Practical Tasks: Data Build Task and Normalisation Task
 
-The [Data Build Task](https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit7_2.html) and [Normalisation Task](https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit7.html) significantly improved my ability to design and implement relational databases. In these projects, I focused on normalizing data to ensure efficiency and reduce redundancy, which is vital for maintaining referential integrity between related entities.
+The <a href="https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit7_2.html" target="_blank">Data Build Task</a> and <a href="https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit7.html" target="_blank">Normalisation Task</a> significantly improved my ability to design and implement relational databases. In these projects, I focused on normalizing data to ensure efficiency and reduce redundancy, which is vital for maintaining referential integrity between related entities.
 
 Normalizing the database structure helped me realize how crucial it is to eliminate duplicate data and create clear relationships between tables. This practical application of normalization principles reinforced my theoretical knowledge and enhanced my skills in SQL and database structure optimization, ensuring that the systems I design are efficient and maintain data integrity.
 
@@ -73,7 +74,7 @@ This task taught me the importance of automating data processes to ensure effici
 
 #### Web Scraping and Data Cleaning Tasks
 
-In the [Web Scraping](https://dantyddk.github.io/el-activities/wiki/2024/10/10/Deciphering-Big-Data-July-2024_uni3.html) and [Data Cleaning](https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit4.html) tasks, I developed proficiency in data extraction and cleaning techniques using Python libraries such as BeautifulSoup and Requests. These tasks provided me with hands-on experience in preparing raw data for analysis and integrating it into structured formats like JSON.
+In the <a href="https://dantyddk.github.io/el-activities/wiki/2024/10/10/Deciphering-Big-Data-July-2024_uni3.html" target="_blank">Web Scraping</a> and <a href="https://dantyddk.github.io/el-activities/2024/10/10/Deciphering-Big-Data-July-2024_unit4.html" target="_blank">Data Cleaning</a> tasks, I developed proficiency in data extraction and cleaning techniques using Python libraries such as BeautifulSoup and Requests. These tasks provided me with hands-on experience in preparing raw data for analysis and integrating it into structured formats like JSON.
 
 I learned how to effectively scrape data from web pages and clean it to ensure its usability for analysis. This experience is particularly relevant in my current role, where I often encounter large volumes of unstructured data that require transformation into structured formats for reporting and analysis. The skills I gained in data cleaning will enable me to work more efficiently with large datasets and improve the overall quality of my analyses
 
