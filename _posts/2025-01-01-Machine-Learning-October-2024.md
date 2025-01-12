@@ -29,9 +29,16 @@ This incident underscores that as businesses adopt Industry 4.0, thorough testin
 
 ### References
 
-- BBC News (2018) TSB IT crisis caused by moving customer records, 25 April. Available at: https://www.bbc.com/news/business-43899685 (Accessed 29 October 2024)
+- BBC News (2018) <em>TSB IT crisis caused by moving customer records</em>, 25 April. Available at: https://www.bbc.com/news/business-43899685 (Accessed 29 October 2024)
 
-- Schwab, K. (2016) The Fourth Industrial Revolution: what it means, how to respond. World Economic Forum. Available at: https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/ (Accessed 29 October 2024).
+- Schwab, K. (2016) <em>The Fourth Industrial Revolution: what it means, how to respond.</em> World Economic Forum. Available at: https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/ (Accessed 29 October 2024).
+
+---
+## Artefacts
+---
+![image](/assets/images/banners/ML1-1.png)
+![image](/assets/images/banners/ML1-2.png)
+![image](/assets/images/banners/ML1-3.png)
 
 ---
 ## Final Post
@@ -75,16 +82,16 @@ As technology evolves, the focus shifts from Industry 4.0 to Industry 5.0, empha
 
 ### References
 
-- BBC News (2018) TSB IT crisis caused by moving customer records, 25 April. Available at: https://www.bbc.com/news/business-43899685 (Accessed 29 October 2024).
+- BBC News (2018) <em>TSB IT crisis caused by moving customer records</em>, 25 April. Available at: https://www.bbc.com/news/business-43899685 (Accessed 29 October 2024).
 
-- Schwab, K. (2016) The Fourth Industrial Revolution: what it means, how to respond. World Economic Forum. Available at: https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/ (Accessed 29 October 2024).
+- Schwab, K. (2016) <em>The Fourth Industrial Revolution: what it means, how to respond.</em> World Economic Forum. Available at: https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/ (Accessed 29 October 2024).
 
-- Mantri, A. (2019) ‘Ensuring Data Security and Privacy During Data Migration’, European Journal of Advances in Engineering and Technology, 6(3), pp. 111–115.
+- Mantri, A. (2019) <em>‘Ensuring Data Security and Privacy During Data Migration’</em>, European Journal of Advances in Engineering and Technology, 6(3), pp. 111–115.
 
-- Velayutham, A. (2021) ‘Overcoming Technical Challenges and Implementing Best Practices in Large-Scale Data Center Storage Migration: Minimizing Downtime, Ensuring Data
-Integrity, and Optimizing Resource Allocation’, International Journal of Applied Machine Learning and Computational Intelligence, 11(12). Available from: https://neuralslate.com/index.php/Machine-Learning-Computational-I/article/view/149.
+- Velayutham, A. (2021) <em>‘Overcoming Technical Challenges and Implementing Best Practices in Large-Scale Data Center Storage Migration: Minimizing Downtime, Ensuring Data
+Integrity, and Optimizing Resource Allocation’</em>, International Journal of Applied Machine Learning and Computational Intelligence, 11(12). Available from: https://neuralslate.com/index.php/Machine-Learning-Computational-I/article/view/149.
 
-- Financial Times (2018) Inside the TSB IT meltdown. Available at: https://www.ft.com/content/b0f6a461-7314-42fd-b76b-7a134bd77fac (Accessed: 4 November 2023).
+- Financial Times (2018) <em>Inside the TSB IT meltdown</em>. Available at: https://www.ft.com/content/b0f6a461-7314-42fd-b76b-7a134bd77fac (Accessed: 4 November 2023).
 
 ---
 ## Personal Reflection
