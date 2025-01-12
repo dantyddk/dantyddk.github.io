@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UoE - Machine Learning October 2024 A
+title: UoE - Machine Learning October 2024 A - The 4th Industrial Revolution
 subtitle: Understand the applicability and challenges associated with different datasets for the use of machine learning algorithms.
 categories: EL-Activities
 tags: [UoE, discussion, Module E-Portfolio Learning Activities]
