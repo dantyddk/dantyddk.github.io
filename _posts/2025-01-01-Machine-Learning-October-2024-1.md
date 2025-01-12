@@ -2,8 +2,8 @@
 layout: post
 title: UoE - Machine Learning October 2024 A
 subtitle: Understand the applicability and challenges associated with different datasets for the use of machine learning algorithms.
-categories: Assignment
-tags: [UoE, discussion, essay]
+categories: EL-Activities
+tags: [UoE, discussion, Module E-Portfolio Learning Activities]
 ---
 ---
 ## Initial Post
