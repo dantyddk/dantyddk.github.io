@@ -48,3 +48,31 @@ References
 - Knaflic, C. N. (2015). <em>Storytelling with Data: A Data Visualization Guide for Business Professionals</em>. Hoboken, NJ: Wiley.
 - Ryanair. (2024). <em>Cheap Flight Destinations</em>. Retrieved from https://www.ryanair.com/gb/en/cheap-flight-destinations
 - Tufte, E. R. (2001). <em>The Visual Display of Quantitative Information</em>. 2nd ed. Cheshire, CT: Graphics Press.
+
+---
+## Artefacts
+---
+![image](/assets/images/banners/V1-3.png)
+
+---
+## Final Post
+---
+
+### Comparative Report on Ryanair and EasyJet Websites
+
+Introduction
+
+This report provides a comparative analysis of the Ryanair and EasyJet websites. It examines various attributes, tasks, data representation, colour schemes, strengths, limitations, and personal perspectives from a data visualisation standpoint. The analysis aims to critically evaluate how these websites facilitate user interaction and visual communication.
+
+Comparative Analysis Table
+
+![image](/assets/images/banners/V1-2.png)
+
+References
+
+- EasyJet. (2024). Route Map. Retrieved from http://www.easyjet.com/en/routemap
+- Few, S. (2012). <em>Show Me the Numbers: Designing Tables and Graphs to Enlighten</em>. 2nd ed. Burlingame, CA: Analytics Press.
+- Knaflic, C. N. (2015). <em>Storytelling with Data: A Data Visualization Guide for Business Professionals</em>. Hoboken, NJ: Wiley.
+- Ryanair. (2024). <em>Cheap Flight Destinations</em>. Retrieved from https://www.ryanair.com/gb/en/cheap-flight-destinations
+- Tufte, E. R. (2001). <em>The Visual Display of Quantitative Information</em>. 2nd ed. Cheshire, CT: Graphics Press.
+
