@@ -95,8 +95,69 @@ This dashboard not only supports weekly tracking of retention, spending, and usa
 
 As we continue to scale and evolve, we aim to enhance the dashboard further by integrating predictive analytics, churn forecasting, and real-time alerts, ensuring that we remain agile and responsive in a highly competitive market.
 
----
 ## Artefacts
 ---
 
 ![image](/assets/images/banners/V5-8.png)
+
+---
+## Relfection
+---
+
+### Introduction
+
+Developing the "Weekly Performance by Persona Tag" dashboard for our ride-hailing company was a valuable experience that expanded my technical, analytical, and strategic thinking skills. Through this project, I combined user segmentation, operational metrics, and business objectives into a coherent, practical dashboard using Tableau. This reflection outlines what I learned during the process, the challenges I encountered, my feelings and motivations, and how I plan to build upon this experience in future projects.
+
+#### 1. What I Have Learned
+
+One of the major lessons I gained from this project was how critical clear segmentation and filtering are when dealing with operational data. Structuring filters (City, Service Type, Persona, Spending Level) enabled multi-dimensional exploration without overwhelming the users. I learned how to create a dashboard that serves different departments (marketing, operations, product) while maintaining a unified view of the data.
+
+Moreover, designing trendline graphs, stacked bar charts, and treemaps taught me to match visualisation types to specific business questions. For instance, using trendlines helped detect behavior shifts over time, while treemaps offered a fast view of service preference patterns.
+
+I also became more aware of the importance of user-centric reporting. Rather than just presenting data, the dashboard needed to support decision-making processes for marketing teams, operations managers, and business leaders. This shifted my mindset from simply "showing" data to truly "communicating" insights clearly and effectively.
+
+Finally, I strengthened my Tableau technical skills, particularly in applying global filters across multiple dashboards and designing dashboards for multi-week performance monitoring.
+
+#### 2. Why I Learned It
+
+Understanding user behavior through segmentation is a core strategic lever in any customer-focused business, especially in highly competitive markets like ride-hailing. Developing this dashboard helped me connect data visualisation techniques directly to business value: improving retention, optimising resources, and targeting marketing investments.
+
+Additionally, creating a dashboard usable by multiple teams taught me the importance of collaboration and cross-functional alignment. If different teams interpret the data differently, the business risks inefficiency. Thus, mastering clear, accessible, and flexible data communication became a key learning goal.
+
+From a career perspective, these skills are vital for success in roles such as Business Analyst, Data Analyst, and Product Manager — where data-driven decision-making is fundamental.
+
+#### 3. Feelings, Inspirations, and Motivation
+
+While developing the dashboard, I felt both excited and challenged. I was excited to build something tangible that could deliver real business impact. However, designing a single platform that met the needs of very different audiences (technical vs non-technical users) was sometimes overwhelming.
+
+Completing the persona segmentation, contribution tables, and spending level distributions gave me a strong sense of achievement. Each part of the dashboard felt like solving a small puzzle — making sure each graph told a story but also contributed to the larger narrative of operational performance.
+
+This project also motivated me to think bigger: beyond tracking current performance to exploring predictive capabilities like churn forecasting and demand prediction. It made me realise that dashboard development is an evolving process, and there is always room to make tools smarter, faster, and more actionable.
+
+#### 4. Challenges Faced
+
+One major challenge was deciding how much detail to display without cluttering the dashboard. Striking the balance between offering detailed insights (like persona-specific spending trends) and maintaining visual simplicity took several design iterations.
+
+Another difficulty was ensuring that filters interacted correctly across all dashboard components without breaking functionality. For instance, making sure the "Week" and "Persona" filters updated both the trendline and spending distribution graphs consistently required troubleshooting and careful testing.
+
+Additionally, it was sometimes difficult to avoid duplication — for example, ensuring that the spending distribution chart and the preferred service distribution added complementary, not redundant, value.
+
+Lastly, ensuring accessibility — making the dashboard intuitive for non-technical users — was a continuous design consideration. Tooltips, legends, and straightforward metric labels became critical features to solve this.
+
+#### 5. How I Plan to Apply It and Improve
+
+In the short term, I will apply what I learned by building even more dynamic dashboards that incorporate real-time data streams (e.g., live ride requests, weather conditions). I also plan to learn more about predictive analytics integration (e.g., using historical booking data to predict demand spikes).
+
+My action plan for improvement includes:
+
+Goal	Action Plan	Benchmark
+Advance predictive analytics	Learn time-series forecasting models in Python (Prophet, ARIMA)	Build one predictive dashboard by end of year
+Improve real-time dashboard capabilities	Study Tableau hyper data extracts and real-time data source integration	Create a real-time GMV tracker
+Strengthen storytelling in dashboards	Practice weekly dashboard projects focused on narrative flow	Receive positive peer feedback on clarity of dashboard storytelling
+I also plan to study best practices in color theory and user accessibility to make my future dashboards even more inclusive and easy to understand for diverse users.
+
+### Conclusion
+Building the "Weekly Performance by Persona Tag" dashboard was a transformative experience that enhanced both my technical proficiency and strategic thinking. It showed me that a successful dashboard is not only about aesthetic design or technical complexity — it is about crafting a tool that empowers users to make faster, better decisions.
+
+This project has inspired me to continue developing not just my technical data skills, but also my storytelling, user empathy, and business problem-solving abilities. I look forward to applying these lessons to future projects, where I can create even more impactful and intelligent data solutions.
+
