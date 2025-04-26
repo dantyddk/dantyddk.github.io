@@ -150,11 +150,10 @@ In the short term, I will apply what I learned by building even more dynamic das
 
 My action plan for improvement includes:
 
-Goal	Action Plan	Benchmark
-Advance predictive analytics	Learn time-series forecasting models in Python (Prophet, ARIMA)	Build one predictive dashboard by end of year
-Improve real-time dashboard capabilities	Study Tableau hyper data extracts and real-time data source integration	Create a real-time GMV tracker
-Strengthen storytelling in dashboards	Practice weekly dashboard projects focused on narrative flow	Receive positive peer feedback on clarity of dashboard storytelling
-I also plan to study best practices in color theory and user accessibility to make my future dashboards even more inclusive and easy to understand for diverse users.
+Goal | Action Plan | Benchmark
+Advance predictive analytics | Learn time-series forecasting models in Python (Prophet, ARIMA) | Build one predictive dashboard by end of year
+Improve real-time dashboard capabilities | Study Tableau hyper data extracts and real-time data source integration | Create a real-time GMV tracker
+Strengthen storytelling in dashboards | Practice weekly dashboard projects focused on narrative flow | Receive positive peer feedback on clarity of dashboard storytelling
 
 ### Conclusion
 Building the "Weekly Performance by Persona Tag" dashboard was a transformative experience that enhanced both my technical proficiency and strategic thinking. It showed me that a successful dashboard is not only about aesthetic design or technical complexity — it is about crafting a tool that empowers users to make faster, better decisions.
