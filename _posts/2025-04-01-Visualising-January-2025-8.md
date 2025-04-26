@@ -257,6 +257,12 @@ Importantly, I will stay updated with evolving technologies such as augmented an
 
 Although this project was a success, several areas for improvement emerged:
 
+Goal | Benchmark | Action Plan | How to Exceed
+Improve advanced Tableau features | Complete Tableau Desktop Specialist by 2025 | Enrol in Tableau Public training series | Attempt Tableau Certified Associate Certification
+Enhance predictive analytics capabilities | Build predictive dashboards using Python/PowerBI | Learn machine learning models for forecasts | Create dynamic forecasting dashboards
+Strengthen storytelling with data | Positive peer/tutor feedback on narratives | Practice using "Storytelling with Data" techniques (Knaflic, 2015) | Present at conferences or webinars
+Improve real-time data integration | Build 3+ real-time updating dashboards | Study APIs and real-time data streaming | Deploy dashboards with dynamic, live data sources
+Sharpen time management | Complete projects ahead of deadlines | Weekly personal sprints and task prioritisation | Run retrospectives to improve delivery speed
 
 
 ### 5. Feelings, Inspirations, and Motivation
