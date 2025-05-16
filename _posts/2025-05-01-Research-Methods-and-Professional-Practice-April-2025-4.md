@@ -3,7 +3,7 @@ layout: post
 title: UoE - Research Methods and Professional Practice April 2025 - Literature Review and Research Proposal Outlines
 subtitle: The 2 core types of reasoning are Deductive and Inductive reasoning.
 categories: EL-Activities
-tags: [UoE, Quiz, Module E-Portfolio Learning Activities]
+tags: [UoE, Refection, Module E-Portfolio Learning Activities]
 ---
 ---
 # Literature Review: The Use of Dashboards in Current Business Practice in the Ride-Hailing Sector
