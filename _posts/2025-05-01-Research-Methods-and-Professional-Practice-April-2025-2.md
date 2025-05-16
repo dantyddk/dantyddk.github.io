@@ -31,6 +31,8 @@ This case highlights how professional ethics go beyond profitability. Both ACM a
 ---
 ## Artefacts
 ---
+![image](/assets/images/banners/RM2-1.png)
+![image](/assets/images/banners/RM2-2.png)
 ---
 ## Final Post
 ---
