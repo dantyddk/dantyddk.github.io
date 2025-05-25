@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UoE - Research Methods and Professional Practice April 2025 - Research Methods and Planning
+title: UoE - Research Methods and Professional Practice April 2025 - Inappropriate Use of Surveys
 subtitle: It is crucial to understand that any methodology choice is based on some underlying assumptions, which we need to bring awareness.
 categories: EL-Activities
 tags: [UoE, Reflection, Module E-Portfolio Learning Activities]
