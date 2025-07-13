@@ -83,3 +83,12 @@ The literature confirms that dashboards are indispensable in the modern ride-hai
 - Wang, Z. and Yu, L., 2022. <em>Comparative review of Tableau and Power BI in business analytics</em>. Information Systems Research Journal, 9(2), pp.45–60.
 - Zhang, Y., Li, D. and Xu, Z., 2020. <em>User segmentation in ride-sharing apps using real-time data dashboards</em>. Transportation Research Part C: Emerging Technologies, 115, pp.102–115.
 - Zhu, X., Wang, T. and Lim, A., 2022. <em>Visualization-based demand forecasting in ride-hailing platforms</em>. IEEE Transactions on Intelligent Transportation Systems, 23(2), pp.832–841.
+
+---
+## Artefacts
+---
+Tutor Feedback
+
+![image](/assets/images/banners/RM9-1.png)
+![image](/assets/images/banners/RM9-2.png)
+---
